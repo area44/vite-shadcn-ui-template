@@ -1,5 +1,5 @@
 {
-  "name": "@area44/vite-workspace",
+  "name": "vite-shadcn-ui-template",
   "framework": "vite",
   "buildCommand": "vite build",
   "outputDirectory": "dist",
