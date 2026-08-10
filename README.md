@@ -1,21 +1,8 @@
-# Vite + Shadcn UI Workspace
+# Vite Shadcn UI Template
 
-[![GitHub Pages](https://github.com/area44/vite-workspace/actions/workflows/pages.yml/badge.svg)](https://area44.github.io/vite-workspace/)
+[![GitHub Pages](https://github.com/area44/vite-shadcn-ui-template/actions/workflows/pages.yml/badge.svg)](https://area44.github.io/vite-shadcn-ui-template/)
 
-A modern, minimalist, and extremely fast template featuring **React**, **Vite 8**, **TypeScript 7**, **Tailwind CSS v4**, and **Shadcn UI** (powered by Base UI).
-
-Fully configured with high-performance Rust-based linters and formatters (**Oxlint** & **Oxfmt**) for a developer experience that is fast and reliable.
-
----
-
-## Features
-
-- ⚡ **Vite 8** - Blazing fast Hot Module Replacement (HMR).
-- 🎨 **Tailwind CSS v4** - Fast, CSS-first Tailwind engine.
-- 🧩 **Shadcn UI + Base UI** - Unstyled, accessible primitives with beautiful Tailwind styles.
-- 📐 **TypeScript 7** - Latest type-safe development environment.
-- 🚀 **Oxlint & Oxfmt** - Lint and format your codebase in milliseconds.
-- 🌐 **GitHub Pages Workflow** - Pre-configured action for easy deployment.
+A modern, minimalist, and extremely fast template.
 
 ---
 
@@ -26,8 +13,6 @@ Fully configured with high-performance Rust-based linters and formatters (**Oxli
 Clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/area44/vite-workspace
-cd vite-workspace
 pnpm install
 ```
 
