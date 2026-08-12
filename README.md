@@ -55,7 +55,7 @@ pnpm fmt
 
 ## Adding Components
 
-This workspace is fully initialized with the **Shadcn CLI**. You can easily add more accessible and beautifully designed UI components:
+This template is fully initialized with the **Shadcn CLI**. You can easily add more accessible and beautifully designed UI components:
 
 ```bash
 pnpm dlx shadcn@latest add <component_name>
